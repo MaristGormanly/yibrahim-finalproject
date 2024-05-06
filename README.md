@@ -57,10 +57,17 @@ Development Notes:
 
 User Documentation:
 
-1. Signing In:
-   - Visit the sign-in page of the platform.
+1. Logging In / Signing Up:
+   - Visit the Login page of the platform.
+<img width="1470" alt="Screenshot 2024-05-05 at 11 42 07 PM" src="https://github.com/MaristGormanly/yibrahim-finalproject/assets/132399515/f2cedd75-867e-4532-a596-1e3d739ff26b">
+
    - Enter your credentials (username/email and password).
-   - Click on the "Sign In" button to access the platform.
+<img width="1470" alt="Screenshot 2024-05-05 at 11 42 17 PM" src="https://github.com/MaristGormanly/yibrahim-finalproject/assets/132399515/08da49e5-d859-427f-a2d3-2b8aa2174f87">
+
+   - Click on the "Log In" button to access the platform.
+   - Otherwise click one the "Sign Up" button to register for the platform and enter your credentials.
+<img width="1470" alt="Screenshot 2024-05-05 at 11 42 39 PM" src="https://github.com/MaristGormanly/yibrahim-finalproject/assets/132399515/64cde57f-0844-4718-9dbe-321c819295a5">
+
 
 *Note: Due to current development stage, users may encounter issues with signing in. Please refer to the development notes section for updates on feature availability.*
 
